@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Asus Vivobook 14",
+    "img": "https://m.media-amazon.com/images/I/71qTbS09tjL._SX679_.jpg",
+    "price": "36990",
+    "url": {
+      "amazon": "https://amzn.eu/d/h4Cg2ZW"
+    },
+    "features": {
+      "modelName": "X1404ZA-NK321WS",
+      "screenSize": "14 inches",
+      "storage": "512 GB",
+      "storageType": "SSD",
+      "ram": "8 GB",
+      "ramExtendable": "24 GB",
+      "ramType": "SDRAM",
+      "processor": "Intel Core i3-1215U",
+      "processorSpeed": "4.4 GHz",
+      "processorGen": "12th Generation",
+      "os": "Windows",
+      "osVersion": "Windows 11",
+      "resolution": "1920x1080p",
+      "countryOrigin": "China",
+      "weight": "1.47 kg"
+    }
+  },
+  {
+    "title": "Asus Vivobook 16X",
+    "img": "https://m.media-amazon.com/images/I/71O7BvBJc8L._SX679_.jpg",
+    "price": "45990",
+    "url": {
+      "amazon": "https://amzn.eu/d/6qtjlLe"
+    },
+    "features": {
+      "modelName": "M1603QA-MB502WS",
+      "screenSize": "16 inches",
+      "storage": "512 GB",
+      "storageType": "SSD",
+      "ram": "8 GB",
+      "ramExtendable": "16 GB",
+      "ramType": "DDR4 SDRAM",
+      "processor": "AMD Ryzen 5 5600H",
+      "processorSpeed": "4.2 GHz",
+      "processorGen": "13th Generation",
+      "os": "Windows",
+      "osVersion": "Windows 11",
+      "resolution": "1920x1080p",
+      "countryOrigin": "China",
+      "weight": "1.8 kg"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Dell Vostro 3430",
+    "img": "https://m.media-amazon.com/images/I/719hstfFMPL._SX679_.jpg",
+    "price": "41990",
+    "url": {
+      "amazon": "https://amzn.eu/d/cmF5szJ"
+    },
+    "features": {
+      "modelName": "Vostro 3430",
+      "screenSize": "14 inches",
+      "storage": "512 GB",
+      "storageType": "SSD",
+      "ram": "8 GB",
+      "ramExtendable": "16 GB",
+      "ramType": "DDR4 SDRAM",
+      "processor": "Intel Core i3-1305U",
+      "processorSpeed": "4.5 GHz",
+      "processorGen": "13th Generation",
+      "os": "Windows",
+      "osVersion": "Windows 11",
+      "resolution": "1920x1080p",
+      "countryOrigin": "China",
+      "weight": "1.46 kg"
+    }
+  },
+  {
+    "title": "Dell Vostro 3430",
+    "img": "https://m.media-amazon.com/images/I/71EF8fY2HuL._SX679_.jpg",
+    "price": "57990",
+    "url": {
+      "amazon": "https://amzn.eu/d/fcACC22"
+    },
+    "features": {
+      "modelName": "Vostro 3430",
+      "screenSize": "14 inches",
+      "storage": "512 GB",
+      "storageType": "SSD",
+      "ram": "8 GB",
+      "ramExtendable": "16 GB",
+      "ramType": "DDR4 SDRAM",
+      "processor": "Intel Core i5-1335U",
+      "processorSpeed": "3.4 GHz",
+      "processorGen": "13th Generation",
+      "os": "Windows",
+      "osVersion": "Windows 11",
+      "resolution": "1920x1080p",
+      "countryOrigin": "China",
+      "weight": "1.46 kg"
+    }
+  }
+]

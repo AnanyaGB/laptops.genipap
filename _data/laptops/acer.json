@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Acer Aspire 3",
+    "img": "https://m.media-amazon.com/images/I/81-qfzp7+KL._SX522_.jpg",
+    "price": "33990",
+    "url": {
+      "amazon": "https://amzn.eu/d/7WS4n4Q"
+    },
+    "features": {
+      "modelName": "A315-59",
+      "screenSize": "15.6 inches",
+      "storage": "512 GB",
+      "storageType": "SSD",
+      "ram": "8 GB",
+      "ramExtendable": "32 GB",
+      "ramType": "DDR4 SDRAM",
+      "processor": "Intel Core i3-7413D",
+      "processorSpeed": "3.3 GHz",
+      "processorGen": "11th Generation",
+      "os": "Windows",
+      "osVersion": "Windows 11",
+      "resolution": "1920x1080p",
+      "countryOrigin": "China",
+      "weight": "1.7 kg"
+    }
+  },
+  {
+    "title": "Acer Aspire 3 Thin",
+    "img": "https://m.media-amazon.com/images/I/91yXhj4zw5L._SX522_.jpg",
+    "price": "42990",
+    "url": {
+      "amazon": "https://amzn.eu/d/8u7S9Lc"
+    },
+    "features": {
+      "modelName": "A315-59",
+      "screenSize": "15.6 inches",
+      "storage": "512 GB",
+      "storageType": "SSD",
+      "ram": "8 GB",
+      "ramExtendable": "32 GB",
+      "ramType": "DDR4 SDRAM",
+      "processor": "Intel Core i5-1235U",
+      "processorSpeed": "3.3 GHz",
+      "processorGen": "12th Generation",
+      "os": "Windows",
+      "osVersion": "Windows 11",
+      "resolution": "1920x1080p",
+      "countryOrigin": "China",
+      "weight": "1.7 kg"
+    }
+  },
+  {
+    "title": "Acer Aspire 5",
+    "img": "https://m.media-amazon.com/images/I/61NPqJky+cL._SX679_.jpg",
+    "price": "41900",
+    "url": {
+      "amazon": "https://amzn.eu/d/2YTlqM3"
+    },
+    "features": {
+      "modelName": "A515-58M",
+      "screenSize": "15.6 inches",
+      "storage": "512 GB",
+      "storageType": "SSD",
+      "ram": "8 GB",
+      "ramExtendable": "8 GB",
+      "ramType": "DDR4 SDRAM",
+      "processor": "Intel Core i3-535D",
+      "processorSpeed": "3.3 GHz",
+      "processorGen": "13th Generation",
+      "os": "Windows",
+      "osVersion": "Windows 11",
+      "resolution": "1920x1080p",
+      "countryOrigin": "China",
+      "weight": "1.75 kg"
+    }
+  },
+  {
+    "title": "Acer Aspire 5",
+    "img": "https://m.media-amazon.com/images/I/71SAwWrGzpL._SX679_.jpg",
+    "price": "48990",
+    "url": {
+      "amazon": "https://amzn.eu/d/dhacH6p"
+    },
+    "features": {
+      "modelName": "A515-57",
+      "screenSize": "15.6 inches",
+      "storage": "512 GB",
+      "storageType": "SSD",
+      "ram": "16 GB",
+      "ramExtendable": "32 GB",
+      "ramType": "DDR4 SDRAM",
+      "processor": "Intel Core i5-1235U",
+      "processorSpeed": "3.7 GHz",
+      "processorGen": "12th Generation",
+      "os": "Windows",
+      "osVersion": "Windows 11",
+      "resolution": "1920x1080p",
+      "countryOrigin": "China",
+      "weight": "1.76 kg"
+    }
+  }
+]

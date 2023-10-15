@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Lenovo IdeaPad 3",
+    "img": "https://m.media-amazon.com/images/I/61q6x-ll5FL._SX522_.jpg",
+    "price": "36900",
+    "url": {
+      "amazon": "https://amzn.eu/d/dTtT0xi"
+    },
+    "features": {
+      "modelName": "82H801L3IN",
+      "screenSize": "15.6 inches",
+      "storage": "256 GB",
+      "storageType": "SSD",
+      "ram": "8 GB",
+      "ramExtendable": "12 GB",
+      "ramType": "DDR4 SDRAM",
+      "processor": "Intel Core i3-1115G4",
+      "processorSpeed": "4.1 GHz",
+      "processorGen": "11th Generation",
+      "os": "Windows",
+      "osVersion": "Windows 11",
+      "resolution": "1920x1080p",
+      "countryOrigin": "China",
+      "weight": "1.65 kg"
+    }
+  },
+  {
+    "title": "Lenovo IdeaPad 1",
+    "img": "https://m.media-amazon.com/images/I/71bDJ9wxxWL._SX679_.jpg",
+    "price": "37990",
+    "url": {
+      "amazon": "https://amzn.eu/d/2dGKJ6v"
+    },
+    "features": {
+      "modelName": "82R400BRIN",
+      "screenSize": "15.6 inches",
+      "storage": "512 GB",
+      "storageType": "SSD",
+      "ram": "8 GB",
+      "ramExtendable": "12 GB",
+      "ramType": "DDR4 SDRAM",
+      "processor": "AMD Ryzen 5",
+      "processorSpeed": "2.1 GHz",
+      "processorGen": "13th Generation",
+      "os": "Windows",
+      "osVersion": "Windows 11",
+      "resolution": "1920x1080p",
+      "countryOrigin": "China",
+      "weight": "1.65 kg"
+    }
+  },
+  {
+    "title": "Lenovo IdeaPad Slim 3",
+    "img": "https://m.media-amazon.com/images/I/61nC5tJlUEL._SX679_.jpg",
+    "price": "49990",
+    "url": {
+      "amazon": "https://amzn.eu/d/3pJlr5x"
+    },
+    "features": {
+      "modelName": "82H803LNIN",
+      "screenSize": "15.6 inches",
+      "storage": "512 GB",
+      "storageType": "SSD",
+      "ram": "16 GB",
+      "ramExtendable": "16 GB",
+      "ramType": "DDR4 SDRAM",
+      "processor": "Intel Core i7-535D",
+      "processorSpeed": "4.7 GHz",
+      "processorGen": "11th Generation",
+      "os": "Windows",
+      "osVersion": "Windows 11",
+      "resolution": "1920x1080p",
+      "countryOrigin": "China",
+      "weight": "1.65 kg"
+    }
+  },
+  {
+    "title": "Lenovo Ideapad Slim 5",
+    "img": "https://m.media-amazon.com/images/I/61wLTc0YixL._SX679_.jpg",
+    "price": "58989",
+    "url": {
+      "amazon": "https://amzn.eu/d/cK4i6oV"
+    },
+    "features": {
+      "modelName": "83BG000PIN",
+      "screenSize": "16 inches",
+      "storage": "512 GB",
+      "storageType": "SSD",
+      "ram": "16 GB",
+      "ramExtendable": "16 GB",
+      "ramType": "DDR4 SDRAM",
+      "processor": "Intel Core i5-12450H",
+      "processorSpeed": "2 GHz",
+      "processorGen": "13th Generation",
+      "os": "Windows",
+      "osVersion": "Windows 11",
+      "resolution": "1920x1080p",
+      "countryOrigin": "China",
+      "weight": "1.89 kg"
+    }
+  }
+]

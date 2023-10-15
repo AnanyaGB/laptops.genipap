@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Apple 2023 MacBook Pro",
+    "img": "https://m.media-amazon.com/images/I/618gNo+ohxL._SX679_.jpg",
+    "price": "199990",
+    "url": {
+      "amazon": "https://amzn.eu/d/isnFuUy"
+    },
+    "features": {
+      "modelName": "AMBP23M2",
+      "screenSize": "14.2 inches",
+      "storage": "512 TB",
+      "storageType": "SSD",
+      "ram": "16 GB",
+      "ramExtendable": "128 GB",
+      "ramType": "16C-Neural",
+      "processor": "Apple M2",
+      "processorSpeed": "4.5 GHz",
+      "processorGen": "2023",
+      "os": "macOS",
+      "osVersion": "macOS Sonoma",
+      "resolution": "1920x1080p",
+      "countryOrigin": "India",
+      "weight": "1.6 kg"
+    }
+  },
+  {
+    "title": "Apple 2023 MacBook Pro",
+    "img": "https://m.media-amazon.com/images/I/618M+ksuptL._SX679_.jpg",
+    "price": "349900",
+    "url": {
+      "amazon": "https://amzn.eu/d/aWhINQp"
+    },
+    "features": {
+      "modelName": "AMBP23M232G",
+      "screenSize": "16.2 inches",
+      "storage": "1 TB",
+      "storageType": "SSD",
+      "ram": "32 GB",
+      "ramExtendable": "256 GB",
+      "ramType": "16C-Neural",
+      "processor": "Apple M2 Max",
+      "processorSpeed": "5.2 GHz",
+      "processorGen": "2023",
+      "os": "macOS",
+      "osVersion": "macOS Sonoma",
+      "resolution": "1920x1080p",
+      "countryOrigin": "India",
+      "weight": "2.16 kg"
+    }
+  }
+]
